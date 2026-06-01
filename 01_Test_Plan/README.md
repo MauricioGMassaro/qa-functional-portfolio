@@ -1,2 +1,2 @@
 # Test Plan
-Documentación de estrategia QA del proyecto.
+Esta carpeta contiene la documentación relacionada con la estrategia de pruebas del proyecto PHPTravels.
