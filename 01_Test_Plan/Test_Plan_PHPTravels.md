@@ -32,7 +32,6 @@ Debido a esta limitación, parte de las pruebas funcionales serán ejecutadas ut
 - Búsqueda de coches
 - Búsqueda de tours
 - Búsqueda de paquetes
-- Consulta de visa
 - Reservas como invitado
 - Navegación general
 - Validaciones de formularios
