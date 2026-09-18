@@ -30,11 +30,9 @@ Debido a esta limitación, parte de las pruebas funcionales serán ejecutadas ut
 - Búsqueda de hoteles
 - Búsqueda de vuelos
 - Búsqueda de coches
-- Búsqueda de tours
 - Búsqueda de paquetes
 - Reservas como invitado
 - Navegación general
-- Validaciones de formularios
 
 ### 3.2 Funcionalidades limitadas
 
@@ -90,7 +88,6 @@ Validación visual y de comportamiento de la interfaz de usuario.
 
 - El sistema no envía correos de validación durante el registro.
 - Posibles fallos en procesos dependientes de autenticación.
-- Validaciones incorrectas de formularios.
 - Errores en filtros de búsqueda.
 - Inconsistencias en disponibilidad de servicios.
 
@@ -99,7 +96,7 @@ Validación visual y de comportamiento de la interfaz de usuario.
 - Imposibilidad de activar nuevas cuentas.
 - Abandono del proceso de registro por parte del usuario.
 - Impacto en la experiencia de onboarding.
-- Dependencia de servicios externos para validación de cuentas mediante correo electrónico.
+- Dependencia de servicios externos como validación de cuentas mediante correo electrónico y medios de pagos.
 
 ---
 
@@ -130,7 +127,6 @@ Validación visual y de comportamiento de la interfaz de usuario.
 | GitHub | Gestión del portafolio y versionado |
 | Google Sheets / Excel | Documentación de escenarios y casos de prueba |
 | Google Chrome | Ejecución de pruebas |
-| Chrome DevTools | Inspección y análisis |
 | Lightshot | Captura de evidencias |
 | Jira | Gestión de defectos |
 
