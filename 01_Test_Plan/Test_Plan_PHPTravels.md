@@ -134,4 +134,4 @@ Validación visual y de comportamiento de la interfaz de usuario.
 | Chrome DevTools | Inspección y análisis |
 | Lightshot | Captura de evidencias |
 | Jira | Gestión de defectos |
-| Postman | Validación de APIs |
+
