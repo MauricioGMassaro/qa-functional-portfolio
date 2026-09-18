@@ -8,7 +8,7 @@ Las evidencias permiten demostrar la ejecución de las pruebas y documentar los 
 
 La carpeta se encuentra organizada según el estado de ejecución de los casos:
 
-### Éxitosos
+### Exitosos
 
 Contiene las evidencias de los casos de prueba que fueron ejecutados correctamente y cuyo resultado obtenido coincide con el resultado esperado.
 
@@ -39,7 +39,7 @@ La clasificación de los casos se realiza de acuerdo con el resultado de la ejec
 
 | Estado | Descripción |
 |---|---|
-| **Éxitoso** | El resultado obtenido coincide con el resultado esperado. |
+| **Exitoso** | El resultado obtenido coincide con el resultado esperado. |
 | **Fallido** | Se identifica una desviación respecto del resultado esperado. |
 | **Bloqueado** | La ejecución no puede completarse debido a una condición que impide continuar. |
 | **En curso** | La ejecución aún no ha finalizado o se encuentra pendiente de una validación. |
