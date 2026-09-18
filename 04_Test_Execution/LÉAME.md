@@ -39,7 +39,7 @@ La clasificación de los casos se realiza de acuerdo con el resultado de la ejec
 
 | Estado | Descripción |
 |---|---|
-| **EExitoso** | El resultado obtenido coincide con el resultado esperado. |
+| **Exitoso** | El resultado obtenido coincide con el resultado esperado. |
 | **Fallido** | Se identifica una desviación respecto del resultado esperado. |
 | **Bloqueado** | La ejecución no puede completarse debido a una condición que impide continuar. |
 | **En curso** | La ejecución aún no ha finalizado o se encuentra pendiente de una validación. |
