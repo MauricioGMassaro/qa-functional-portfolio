@@ -1,6 +1,6 @@
 # Informes de Errores
 
-Esta carpeta contiene la documentación y las evidencias relacionadas con los defectos identificados durante la ejecución de las pruebas funcionales sobre PHPTravels.
+Esta carpeta contiene la documentación y las evidencias relacionadas con los defectos identificados durante la ejecución de las pruebas funcionales sobre PHPTravels. 
 
 ## Contenido
 
